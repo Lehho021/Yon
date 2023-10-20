@@ -1,9 +1,9 @@
 # YON (You Get Now) - Situs E-commerce
 
+YON adalah situs e-commerce yang dibangun menggunakan PHP, MySQL, dan Bootstrap. Ini memungkinkan pengguna untuk menjelajahi dan membeli berbagai produk elektronik, seperti iPhone, iPad, Apple Watch, dan Mac, beserta aksesori.
+
 ## Nama : LeonHoss Hutagaol
 ## NPM  : 20081010215
-
-YON adalah situs e-commerce yang dibangun menggunakan PHP, MySQL, dan Bootstrap. Ini memungkinkan pengguna untuk menjelajahi dan membeli berbagai produk elektronik, seperti iPhone, iPad, Apple Watch, dan Mac, beserta aksesori.
 
 ## Akses Aplikasi
 http://localhost/yon1/
