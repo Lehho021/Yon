@@ -19,8 +19,6 @@ Untuk mengakses panel pengguna, gunakan kredensial berikut:
 - **Nama Pengguna:** user
 - **Kata Sandi:** 12345
 
-Harap ubah kata sandi pengguna default untuk alasan keamanan.
-
 ## Instalasi
 
 1. Clone repositori ini ke komputer lokal Anda:
